@@ -13,4 +13,4 @@ pandas
 
 matplotlib
 
-
+This version was run on a computer running a Linux operating system (Ubuntu).
